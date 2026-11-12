@@ -1,0 +1,537 @@
+{
+  "name": "Chinese Character Stories: learning data",
+  "version": 1,
+  "license": "CC BY 4.0",
+  "source": "https://chinesecharacterstory.com/",
+  "count": 5,
+  "characters": [
+    {
+      "id": "shui",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "tone": 3,
+      "meaning": "water",
+      "strokes": 4,
+      "summary": "水 (shuǐ) is the Chinese character for water. It is written with 4 strokes and pronounced shuǐ in the third tone. It began as a picture of flowing water, and you will meet it in everyday words such as 喝水 (drink water) and 水果 (fruit).",
+      "origin": [
+        "水 is a pictograph. The oldest forms, carved on oracle bones more than 3,000 years ago, show a curving line with short marks on each side. This is traditionally explained as a picture of flowing water.",
+        "Over time the curving line straightened into the hooked vertical stroke in the middle, and the marks beside it became the strokes on the left and right."
+      ],
+      "memory_aid": "Think of the middle stroke as the main current and the strokes on each side as smaller streams splashing off it. This is how the video draws it. It is a way to remember the shape, not a documented stroke-by-stroke history.",
+      "stroke_order": "Write the hooked vertical stroke in the middle first, then the stroke on the left, then the two strokes on the right.",
+      "notes": [
+        "On the left side of another character, 水 is squeezed into three short strokes: 氵. Learners often call it \"three drops of water\". You can see it in 河 (hé, river), 海 (hǎi, sea) and 洗 (xǐ, to wash)."
+      ],
+      "words": [
+        {
+          "zh": "喝水",
+          "pinyin": "hē shuǐ",
+          "en": "to drink water"
+        },
+        {
+          "zh": "热水",
+          "pinyin": "rè shuǐ",
+          "en": "hot water"
+        },
+        {
+          "zh": "开水",
+          "pinyin": "kāishuǐ",
+          "en": "boiled water"
+        },
+        {
+          "zh": "水果",
+          "pinyin": "shuǐguǒ",
+          "en": "fruit",
+          "literal": "water fruit"
+        },
+        {
+          "zh": "山水",
+          "pinyin": "shānshuǐ",
+          "en": "landscape, scenery",
+          "literal": "mountains and water"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 水 mean?",
+          "options": [
+            "fire",
+            "water",
+            "mountain",
+            "tree"
+          ],
+          "answer": 1,
+          "explain": "水 means water."
+        },
+        {
+          "q": "How is 水 pronounced?",
+          "options": [
+            "shān (first tone)",
+            "huǒ (third tone)",
+            "shuǐ (third tone)",
+            "mù (fourth tone)"
+          ],
+          "answer": 2,
+          "explain": "水 is shuǐ, third tone."
+        },
+        {
+          "q": "How many strokes does 水 have?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+          ],
+          "answer": 0,
+          "explain": "水 has 4 strokes. The hooked vertical stroke in the middle comes first."
+        },
+        {
+          "q": "What does 喝水 (hē shuǐ) mean?",
+          "options": [
+            "hot water",
+            "fruit",
+            "to wash",
+            "to drink water"
+          ],
+          "answer": 3,
+          "explain": "喝 is to drink, so 喝水 is to drink water."
+        },
+        {
+          "q": "Which shape is the form of 水 used on the left side of characters such as 河 (river)?",
+          "options": [
+            "灬",
+            "氵",
+            "木",
+            "口"
+          ],
+          "answer": 1,
+          "explain": "氵 is the three-stroke form of 水 that appears on the left of many water-related characters."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/shui/"
+    },
+    {
+      "id": "shan",
+      "hanzi": "山",
+      "pinyin": "shān",
+      "tone": 1,
+      "meaning": "mountain",
+      "strokes": 3,
+      "summary": "山 (shān) is the Chinese character for mountain or hill. It is written with 3 strokes and pronounced shān in the first tone, high and level. It is a drawing of mountain peaks, and it appears in words such as 火山 (volcano) and 爬山 (to go hiking).",
+      "origin": [
+        "山 is a pictograph of mountain peaks. In oracle-bone writing, more than 3,000 years ago, the peaks were drawn as triangle-like shapes standing on a ground line rather than as upright strokes.",
+        "Over the centuries each peak thinned into a single vertical stroke, with the middle one tallest, and the ground became the line along the bottom."
+      ],
+      "memory_aid": "",
+      "stroke_order": "Write the tall vertical stroke in the middle first. The second stroke goes down the left side and turns along the bottom in one movement. The short vertical stroke on the right comes last.",
+      "notes": [
+        "山 is also a building block in other characters. For example, 岩 (yán, rock) is written with 山 above 石 (stone), and 岛 (dǎo, island) has 山 at the bottom."
+      ],
+      "words": [
+        {
+          "zh": "上山",
+          "pinyin": "shàng shān",
+          "en": "to go up the mountain"
+        },
+        {
+          "zh": "爬山",
+          "pinyin": "pá shān",
+          "en": "to climb a mountain, to go hiking"
+        },
+        {
+          "zh": "高山",
+          "pinyin": "gāoshān",
+          "en": "high mountain"
+        },
+        {
+          "zh": "火山",
+          "pinyin": "huǒshān",
+          "en": "volcano",
+          "literal": "fire mountain"
+        },
+        {
+          "zh": "山水",
+          "pinyin": "shānshuǐ",
+          "en": "landscape, scenery",
+          "literal": "mountains and water"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 山 mean?",
+          "options": [
+            "mountain",
+            "sun",
+            "water",
+            "fire"
+          ],
+          "answer": 0,
+          "explain": "山 means mountain or hill."
+        },
+        {
+          "q": "How is 山 pronounced?",
+          "options": [
+            "shuǐ (third tone)",
+            "rì (fourth tone)",
+            "mù (fourth tone)",
+            "shān (first tone)"
+          ],
+          "answer": 3,
+          "explain": "山 is shān, first tone: high and level."
+        },
+        {
+          "q": "How many strokes does 山 have?",
+          "options": [
+            "2",
+            "4",
+            "3",
+            "5"
+          ],
+          "answer": 2,
+          "explain": "山 has 3 strokes. The tall middle stroke comes first."
+        },
+        {
+          "q": "火山 (huǒshān) is literally \"fire mountain\". What does it mean?",
+          "options": [
+            "campfire",
+            "volcano",
+            "sunrise",
+            "forest"
+          ],
+          "answer": 1,
+          "explain": "火 (fire) + 山 (mountain) = volcano."
+        },
+        {
+          "q": "In the oldest writing, how were the peaks of 山 drawn?",
+          "options": [
+            "As circles",
+            "As dots",
+            "As triangle-like shapes",
+            "As wavy lines"
+          ],
+          "answer": 2,
+          "explain": "In oracle-bone script the peaks were triangle-like shapes, not upright strokes."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/shan/"
+    },
+    {
+      "id": "ri",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "tone": 4,
+      "meaning": "sun; day",
+      "strokes": 4,
+      "summary": "日 (rì) is the Chinese character for sun, and it also means day. It is written with 4 strokes and pronounced rì in the fourth tone, falling. It began as a picture of the sun, and it appears in words such as 生日 (birthday) and 日本 (Japan).",
+      "origin": [
+        "日 is a pictograph of the sun. Early forms show an outline with a dot or a short line in the middle. In today's script, written with straight strokes, the outline is a tall box and the mark is the line across the centre.",
+        "Why the mark is there is not certain. One common explanation is that it was added to tell the sun apart from other, similar-looking shapes.",
+        "The meaning \"day\" grew out of the meaning \"sun\"."
+      ],
+      "memory_aid": "",
+      "stroke_order": "Write the left vertical stroke first. The second stroke runs across the top and down the right side in one movement. Then write the line in the middle, and close the box with the bottom line last.",
+      "notes": [
+        "Look-alikes: 日 (sun) is tall and narrow with one line inside. 目 (mù, eye) has two lines inside. 曰 (yuē, an old word for \"to say\") is wider and flatter.",
+        "In everyday speech the usual word for the sun is 太阳 (tàiyáng) and the usual word for a day is 天 (tiān). 日 is mostly found inside words and in written dates."
+      ],
+      "words": [
+        {
+          "zh": "日本",
+          "pinyin": "Rìběn",
+          "en": "Japan",
+          "literal": "sun's origin"
+        },
+        {
+          "zh": "生日",
+          "pinyin": "shēngrì",
+          "en": "birthday",
+          "literal": "birth day"
+        },
+        {
+          "zh": "日出",
+          "pinyin": "rìchū",
+          "en": "sunrise"
+        },
+        {
+          "zh": "日记",
+          "pinyin": "rìjì",
+          "en": "diary"
+        },
+        {
+          "zh": "星期日",
+          "pinyin": "xīngqīrì",
+          "en": "Sunday"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Which two meanings does 日 have?",
+          "options": [
+            "moon and month",
+            "sun and day",
+            "eye and to see",
+            "fire and hot"
+          ],
+          "answer": 1,
+          "explain": "日 means sun, and also day."
+        },
+        {
+          "q": "How is 日 pronounced?",
+          "options": [
+            "rì (fourth tone)",
+            "mù (fourth tone)",
+            "shān (first tone)",
+            "huǒ (third tone)"
+          ],
+          "answer": 0,
+          "explain": "日 is rì, fourth tone: falling."
+        },
+        {
+          "q": "How many strokes does 日 have?",
+          "options": [
+            "3",
+            "5",
+            "6",
+            "4"
+          ],
+          "answer": 3,
+          "explain": "日 has 4 strokes. The bottom line that closes the box comes last."
+        },
+        {
+          "q": "What does 生日 (shēngrì) mean?",
+          "options": [
+            "sunrise",
+            "Japan",
+            "birthday",
+            "Sunday"
+          ],
+          "answer": 2,
+          "explain": "生 (birth) + 日 (day) = birthday."
+        },
+        {
+          "q": "Which of these characters is 日 (sun)?",
+          "options": [
+            "目",
+            "口",
+            "白",
+            "日"
+          ],
+          "answer": 3,
+          "explain": "日 has one line inside the box. 目 (eye) has two, 口 (mouth) has none, and 白 (white) has an extra stroke on top."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/ri/"
+    },
+    {
+      "id": "mu",
+      "hanzi": "木",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "tree; wood",
+      "strokes": 4,
+      "summary": "木 (mù) is the Chinese character for tree and for wood. It is written with 4 strokes and pronounced mù in the fourth tone, falling. It began as a picture of a tree with branches above and roots below, and it appears in words such as 木头 (wood) and 树木 (trees).",
+      "origin": [
+        "木 is a pictograph of a tree. Early forms show a trunk with branches reaching up at the top and roots spreading out at the bottom."
+      ],
+      "memory_aid": "In the video the trunk is the vertical stroke, the branches flatten into the line across, and the roots become the two sweeping strokes. That is how the shapes line up when you put the old form next to the modern one. Treat it as a way to remember the character rather than a documented stroke-by-stroke history.",
+      "stroke_order": "Write the horizontal stroke first, then the vertical stroke through it, then the sweeping stroke to the left, and the sweeping stroke to the right last.",
+      "notes": [
+        "In modern Chinese the everyday word for a tree is 树 (shù). On its own, 木 usually refers to wood.",
+        "木 is a building block in many characters to do with trees and wooden things, such as 桌 (zhuō, table) and 椅 (yǐ, chair). 林 (lín, woods) is traditionally explained as two trees side by side, and 森 (sēn, as in 森林, forest) as three."
+      ],
+      "words": [
+        {
+          "zh": "木头",
+          "pinyin": "mùtou",
+          "en": "wood (the material)"
+        },
+        {
+          "zh": "树木",
+          "pinyin": "shùmù",
+          "en": "trees"
+        },
+        {
+          "zh": "木板",
+          "pinyin": "mùbǎn",
+          "en": "wooden board, plank"
+        },
+        {
+          "zh": "森林",
+          "pinyin": "sēnlín",
+          "en": "forest"
+        },
+        {
+          "zh": "木星",
+          "pinyin": "Mùxīng",
+          "en": "Jupiter",
+          "literal": "wood star"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 木 mean?",
+          "options": [
+            "water",
+            "sun; day",
+            "tree; wood",
+            "mountain"
+          ],
+          "answer": 2,
+          "explain": "木 means tree, and also wood."
+        },
+        {
+          "q": "How is 木 pronounced?",
+          "options": [
+            "mù (fourth tone)",
+            "rì (fourth tone)",
+            "shuǐ (third tone)",
+            "huǒ (third tone)"
+          ],
+          "answer": 0,
+          "explain": "木 is mù, fourth tone: falling."
+        },
+        {
+          "q": "How many strokes does 木 have?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "2"
+          ],
+          "answer": 1,
+          "explain": "木 has 4 strokes. The horizontal stroke comes first."
+        },
+        {
+          "q": "What does 木头 (mùtou) mean?",
+          "options": [
+            "forest",
+            "Jupiter",
+            "table",
+            "wood"
+          ],
+          "answer": 3,
+          "explain": "木头 is wood, the material."
+        },
+        {
+          "q": "林 is written with two 木 side by side. What does it mean?",
+          "options": [
+            "woods",
+            "fire",
+            "river",
+            "chair"
+          ],
+          "answer": 0,
+          "explain": "林 (lín) means woods. It is traditionally explained as two trees standing together."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/mu/"
+    },
+    {
+      "id": "huo",
+      "hanzi": "火",
+      "pinyin": "huǒ",
+      "tone": 3,
+      "meaning": "fire",
+      "strokes": 4,
+      "summary": "火 (huǒ) is the Chinese character for fire. It is written with 4 strokes and pronounced huǒ in the third tone. It began as a picture of flames, and it appears in words such as 火车 (train, literally \"fire vehicle\") and 火山 (volcano).",
+      "origin": [
+        "火 is a pictograph of fire. The oracle-bone form shown on this page, more than 3,000 years old, is a flame shape with points rising from a base.",
+        "The modern character keeps the idea of flames reaching upward, but its four strokes do not match the parts of the old drawing one for one."
+      ],
+      "memory_aid": "Think of the two long strokes as a tall flame and the two short strokes as sparks flying off on each side. This is how the video draws it. It is a memory aid only and is not how the old form was laid out.",
+      "stroke_order": "Write the two short strokes first, left and then right. Then write the long sweeping stroke to the left, and the long sweeping stroke to the right last.",
+      "notes": [
+        "At the bottom of another character, 火 is often written as four dots: 灬. You can see it in 热 (rè, hot) and 点 (diǎn, dot; to light). On the left side it keeps its shape but gets narrower, as in 灯 (dēng, lamp) and 烧 (shāo, to burn)."
+      ],
+      "words": [
+        {
+          "zh": "火车",
+          "pinyin": "huǒchē",
+          "en": "train",
+          "literal": "fire vehicle"
+        },
+        {
+          "zh": "火山",
+          "pinyin": "huǒshān",
+          "en": "volcano",
+          "literal": "fire mountain"
+        },
+        {
+          "zh": "火锅",
+          "pinyin": "huǒguō",
+          "en": "hot pot",
+          "literal": "fire pot"
+        },
+        {
+          "zh": "着火",
+          "pinyin": "zháohuǒ",
+          "en": "to catch fire"
+        },
+        {
+          "zh": "火星",
+          "pinyin": "Huǒxīng",
+          "en": "Mars",
+          "literal": "fire star"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 火 mean?",
+          "options": [
+            "tree",
+            "water",
+            "sun",
+            "fire"
+          ],
+          "answer": 3,
+          "explain": "火 means fire."
+        },
+        {
+          "q": "How is 火 pronounced?",
+          "options": [
+            "shuǐ (third tone)",
+            "huǒ (third tone)",
+            "shān (first tone)",
+            "rì (fourth tone)"
+          ],
+          "answer": 1,
+          "explain": "火 is huǒ, third tone."
+        },
+        {
+          "q": "How many strokes does 火 have?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+          ],
+          "answer": 0,
+          "explain": "火 has 4 strokes."
+        },
+        {
+          "q": "火车 (huǒchē) is literally \"fire vehicle\". What does it mean?",
+          "options": [
+            "volcano",
+            "hot pot",
+            "train",
+            "lamp"
+          ],
+          "answer": 2,
+          "explain": "火车 is a train. The name comes from steam locomotives."
+        },
+        {
+          "q": "Which strokes of 火 are written first?",
+          "options": [
+            "The long stroke on the right",
+            "The long stroke on the left",
+            "The two short strokes",
+            "Any order is fine"
+          ],
+          "answer": 2,
+          "explain": "The two short strokes come first, left then right, followed by the two long strokes."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/huo/"
+    }
+  ]
+}
