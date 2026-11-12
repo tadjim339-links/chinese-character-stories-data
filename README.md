@@ -1,6 +1,6 @@
 # Chinese character stories: open learning data
 
-Structured study data for beginner Chinese characters, one record per character: pinyin, tone, meaning, stroke count, a short note on where the shape comes from, a memory aid, stroke-order guidance, five common words and five multiple-choice quiz questions.
+Structured study data for beginner Chinese characters, one record per character: pinyin, tone, meaning, stroke count, a short note on where the shape comes from, a memory aid, stroke-order guidance, four or five common words and five multiple-choice quiz questions.
 
 It is the data behind the character pages at [Chinese Character Story](https://chinesecharacterstory.com/), published here so that teachers, app builders and learners can reuse it in flashcards, worksheets or their own tools.
 
@@ -13,8 +13,24 @@ It is the data behind the character pages at [Chinese Character Story](https://c
 | 日 | rì | 4 | sun; day | 4 |
 | 木 | mù | 4 | tree; wood | 4 |
 | 火 | huǒ | 3 | fire | 4 |
+| 人 | rén | 2 | person | 2 |
+| 口 | kǒu | 3 | mouth | 3 |
+| 目 | mù | 4 | eye | 5 |
+| 手 | shǒu | 3 | hand | 4 |
+| 心 | xīn | 1 | heart | 4 |
+| 月 | yuè | 4 | moon; month | 4 |
+| 雨 | yǔ | 3 | rain | 8 |
+| 云 | yún | 2 | cloud | 4 |
+| 土 | tǔ | 3 | earth; soil | 3 |
+| 田 | tián | 2 | field | 5 |
+| 大 | dà | 4 | big | 3 |
+| 小 | xiǎo | 3 | small | 3 |
+| 上 | shàng | 4 | up; above | 3 |
+| 下 | xià | 4 | down; below | 3 |
+| 中 | zhōng | 1 | middle | 4 |
+| 黄 | huáng | 2 | yellow | 11 |
 
-Five characters, 25 example words, 25 quiz questions. More are added as each character page is finished; the file grows, the format stays the same.
+21 characters, 102 example words, 105 quiz questions. More are added as each character page is finished; the file grows, the format stays the same. Records added from November 2026 onward also carry a `sources` list (name and link of each reference checked).
 
 ## Format
 

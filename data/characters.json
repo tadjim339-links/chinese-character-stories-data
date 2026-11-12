@@ -3,7 +3,7 @@
   "version": 1,
   "license": "CC BY 4.0",
   "source": "https://chinesecharacterstory.com/",
-  "count": 5,
+  "count": 21,
   "characters": [
     {
       "id": "shui",
@@ -532,6 +532,1921 @@
         }
       ],
       "page": "https://chinesecharacterstory.com/characters/huo/"
+    },
+    {
+      "id": "ren",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "tone": 2,
+      "meaning": "person",
+      "strokes": 2,
+      "summary": "人 (rén) is the Chinese character for person. It is written with 2 strokes and pronounced rén in the second tone. It began as a side view of a standing person, and you will meet it in everyday words such as 大人 (adult) and 人口 (population).",
+      "origin": [
+        "人 is a pictograph. The oldest forms, on oracle bones more than 3,000 years ago, show a standing person seen from the side, drawn with a few lines that pick out an arm and a leg.",
+        "The modern character keeps just two strokes of that figure."
+      ],
+      "memory_aid": "Think of the two strokes as a person walking: the body and one leg, then the other leg. This is how the video draws it. It is a way to remember the shape, not a stroke-by-stroke history.",
+      "stroke_order": "Two strokes: first the stroke that falls to the left, then the stroke that falls to the right, starting from the middle of the first one.",
+      "notes": [
+        "On the left side of another character, 人 is written 亻. Learners call it the \"person radical\". You can see it in 你 (nǐ, you), 他 (tā, he) and 们 (men, the plural ending for people).",
+        "Compare 大 (dà, big), which began as a person seen from the front."
+      ],
+      "words": [
+        {
+          "zh": "大人",
+          "pinyin": "dàren",
+          "en": "adult",
+          "literal": "big person"
+        },
+        {
+          "zh": "人口",
+          "pinyin": "rénkǒu",
+          "en": "population",
+          "literal": "people mouths"
+        },
+        {
+          "zh": "好人",
+          "pinyin": "hǎorén",
+          "en": "good person"
+        },
+        {
+          "zh": "中国人",
+          "pinyin": "Zhōngguórén",
+          "en": "Chinese person"
+        },
+        {
+          "zh": "人人",
+          "pinyin": "rénrén",
+          "en": "everyone",
+          "literal": "person person"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 人 mean?",
+          "options": [
+            "mouth",
+            "person",
+            "big",
+            "hand"
+          ],
+          "answer": 1,
+          "explain": "人 means person."
+        },
+        {
+          "q": "How is 人 pronounced?",
+          "options": [
+            "rén (second tone)",
+            "rì (fourth tone)",
+            "rù (fourth tone)",
+            "nín (second tone)"
+          ],
+          "answer": 0,
+          "explain": "人 is rén, second tone (rising)."
+        },
+        {
+          "q": "How many strokes does 人 have?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+          ],
+          "answer": 2,
+          "explain": "人 has 2 strokes: one falling left, then one falling right."
+        },
+        {
+          "q": "What does 大人 (dàren) mean?",
+          "options": [
+            "a tall building",
+            "everyone",
+            "population",
+            "adult"
+          ],
+          "answer": 3,
+          "explain": "大 is big, so 大人 is literally \"big person\": an adult."
+        },
+        {
+          "q": "Which shape is the form of 人 used on the left side of characters such as 你 (you)?",
+          "options": [
+            "氵",
+            "扌",
+            "亻",
+            "忄"
+          ],
+          "answer": 2,
+          "explain": "亻 is the form of 人 used on the left of many characters about people."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/ren/",
+      "sources": [
+        {
+          "name": "Wiktionary, 人: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E4%BA%BA#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:人-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%BA-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "kou",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "tone": 3,
+      "meaning": "mouth",
+      "strokes": 3,
+      "summary": "口 (kǒu) is the Chinese character for mouth. It is written with 3 strokes and pronounced kǒu in the third tone. It began as a picture of an open mouth, and you will meet it in everyday words such as 出口 (exit) and 人口 (population).",
+      "origin": [
+        "口 is a pictograph: it resembles an open mouth.",
+        "Today it is a plain box written with three strokes. Besides the mouth itself, it is used for openings of all kinds, such as doorways, exits and entrances."
+      ],
+      "memory_aid": "Picture a mouth opened wide into a square, as if saying \"ah\".",
+      "stroke_order": "Three strokes: the left side first, then the top and right side in one stroke, then the bottom line to close the box.",
+      "notes": [
+        "As a small part on the left of other characters, 口 often marks things done with the mouth: 吃 (chī, to eat), 喝 (hē, to drink), 叫 (jiào, to call).",
+        "In everyday speech the usual word for a person's mouth is 嘴 (zuǐ). 口 is found mostly inside longer words."
+      ],
+      "words": [
+        {
+          "zh": "出口",
+          "pinyin": "chūkǒu",
+          "en": "exit",
+          "literal": "go-out mouth"
+        },
+        {
+          "zh": "入口",
+          "pinyin": "rùkǒu",
+          "en": "entrance",
+          "literal": "go-in mouth"
+        },
+        {
+          "zh": "门口",
+          "pinyin": "ménkǒu",
+          "en": "doorway",
+          "literal": "door mouth"
+        },
+        {
+          "zh": "人口",
+          "pinyin": "rénkǒu",
+          "en": "population",
+          "literal": "people mouths"
+        },
+        {
+          "zh": "口水",
+          "pinyin": "kǒushuǐ",
+          "en": "saliva",
+          "literal": "mouth water"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 口 mean?",
+          "options": [
+            "mouth",
+            "sun",
+            "field",
+            "eye"
+          ],
+          "answer": 0,
+          "explain": "口 means mouth."
+        },
+        {
+          "q": "How is 口 pronounced?",
+          "options": [
+            "gǒu (third tone)",
+            "kǒu (third tone)",
+            "kè (fourth tone)",
+            "kāi (first tone)"
+          ],
+          "answer": 1,
+          "explain": "口 is kǒu, third tone."
+        },
+        {
+          "q": "How many strokes does 口 have?",
+          "options": [
+            "4",
+            "2",
+            "5",
+            "3"
+          ],
+          "answer": 3,
+          "explain": "口 has 3 strokes. The top and right side are written as one stroke."
+        },
+        {
+          "q": "What does 出口 (chūkǒu) mean?",
+          "options": [
+            "entrance",
+            "population",
+            "exit",
+            "saliva"
+          ],
+          "answer": 2,
+          "explain": "出 is to go out, so 出口 is the exit."
+        },
+        {
+          "q": "Which stroke of 口 is written last?",
+          "options": [
+            "the left side",
+            "the bottom line",
+            "the top and right side",
+            "a dot in the middle"
+          ],
+          "answer": 1,
+          "explain": "The bottom line closes the box, so it comes last."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/kou/",
+      "sources": [
+        {
+          "name": "Wiktionary, 口: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E5%8F%A3#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:口-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E5%8F%A3-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "mu-eye",
+      "hanzi": "目",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "eye",
+      "strokes": 5,
+      "summary": "目 (mù) is the Chinese character for eye. It is written with 5 strokes and pronounced mù in the fourth tone. It began as a picture of an eye, later turned upright, and you will meet it in everyday words such as 目标 (goal) and 节目 (program).",
+      "origin": [
+        "目 is a pictograph of a human eye. The oldest forms, on oracle bones more than 3,000 years ago, lie on their side, the way an eye really looks: the outline of the eye with the middle of the eye marked inside.",
+        "Later the whole shape was rotated 90 degrees and its curves were straightened. That gives the tall box with two lines inside that is written today."
+      ],
+      "memory_aid": "Tilt your head to one side and the character looks like an eye again: the box is the outline of the eye and the two inner lines are the edges of the iris. The video shows this turn.",
+      "stroke_order": "Five strokes: the left side, then the top and right side in one stroke, then the two short lines inside from top to bottom, and last the bottom line to close the box.",
+      "notes": [
+        "In modern speech the everyday word for eye is 眼睛 (yǎnjing). 目 lives on inside words such as 目标 (goal) and 节目 (program), and as a part of characters about seeing, such as 看 (kàn, to look) and 眼 (yǎn, eye).",
+        "Do not mix it up with 日 (rì, sun), which has only one line inside, or with 木 (mù, tree), which sounds exactly the same."
+      ],
+      "words": [
+        {
+          "zh": "目标",
+          "pinyin": "mùbiāo",
+          "en": "goal; target"
+        },
+        {
+          "zh": "目的",
+          "pinyin": "mùdì",
+          "en": "purpose; aim"
+        },
+        {
+          "zh": "目前",
+          "pinyin": "mùqián",
+          "en": "at present",
+          "literal": "before the eyes"
+        },
+        {
+          "zh": "节目",
+          "pinyin": "jiémù",
+          "en": "program; show"
+        },
+        {
+          "zh": "题目",
+          "pinyin": "tímù",
+          "en": "title; exam question"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 目 mean?",
+          "options": [
+            "sun",
+            "moon",
+            "eye",
+            "mouth"
+          ],
+          "answer": 2,
+          "explain": "目 means eye."
+        },
+        {
+          "q": "How is 目 pronounced?",
+          "options": [
+            "mǔ (third tone)",
+            "rì (fourth tone)",
+            "yǎn (third tone)",
+            "mù (fourth tone)"
+          ],
+          "answer": 3,
+          "explain": "目 is mù, fourth tone (falling)."
+        },
+        {
+          "q": "How many strokes does 目 have?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+          ],
+          "answer": 0,
+          "explain": "目 has 5 strokes: the box takes three, and there are two lines inside."
+        },
+        {
+          "q": "How did the old picture of an eye change to become 目?",
+          "options": [
+            "It was cut in half",
+            "It was turned upright (rotated 90 degrees)",
+            "A second eye was added",
+            "The outline was removed"
+          ],
+          "answer": 1,
+          "explain": "The old sideways eye was rotated 90 degrees and its curves became straight lines."
+        },
+        {
+          "q": "What does 目标 (mùbiāo) mean?",
+          "options": [
+            "eyebrow",
+            "program; show",
+            "at present",
+            "goal; target"
+          ],
+          "answer": 3,
+          "explain": "目标 is a goal or target."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/mu-eye/",
+      "sources": [
+        {
+          "name": "Wiktionary, 目: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E7%9B%AE#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:目-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E7%9B%AE-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "shou",
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "tone": 3,
+      "meaning": "hand",
+      "strokes": 4,
+      "summary": "手 (shǒu) is the Chinese character for hand. It is written with 4 strokes and pronounced shǒu in the third tone. It began as a picture of a hand with five fingers, and you will meet it in everyday words such as 手机 (mobile phone) and 洗手 (wash your hands).",
+      "origin": [
+        "手 is a pictograph of a hand and its fingers. Among the old characters that show hands and claws, this is the one that has always been drawn with five fingers.",
+        "In the modern character the top stroke is the middle finger, bent over, and each of the two horizontal strokes stands for two fingers."
+      ],
+      "memory_aid": "Hold up your hand: the long stroke with the hook is your palm and wrist, and the strokes across it are your fingers. The palm-and-wrist part is our way to remember it; the reference we checked only names the fingers.",
+      "stroke_order": "Four strokes: the short slanting stroke at the top (written from right to left), then the two horizontal strokes from top to bottom, and last the long vertical stroke with a hook.",
+      "notes": [
+        "On the left side of another character, 手 is written 扌, with three strokes. Learners call it the \"hand radical\". It marks actions done with the hands, as in 打 (dǎ, to hit), 找 (zhǎo, to look for) and 拉 (lā, to pull).",
+        "The old form shown above is from bronze inscriptions. We found no oracle-bone image of this character in our source for glyph images."
+      ],
+      "words": [
+        {
+          "zh": "手机",
+          "pinyin": "shǒujī",
+          "en": "mobile phone",
+          "literal": "hand machine"
+        },
+        {
+          "zh": "洗手",
+          "pinyin": "xǐ shǒu",
+          "en": "to wash your hands"
+        },
+        {
+          "zh": "手表",
+          "pinyin": "shǒubiǎo",
+          "en": "wristwatch",
+          "literal": "hand watch"
+        },
+        {
+          "zh": "手指",
+          "pinyin": "shǒuzhǐ",
+          "en": "finger"
+        },
+        {
+          "zh": "右手",
+          "pinyin": "yòushǒu",
+          "en": "right hand"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 手 mean?",
+          "options": [
+            "foot",
+            "hand",
+            "heart",
+            "person"
+          ],
+          "answer": 1,
+          "explain": "手 means hand."
+        },
+        {
+          "q": "How is 手 pronounced?",
+          "options": [
+            "shǒu (third tone)",
+            "shuǐ (third tone)",
+            "shān (first tone)",
+            "sǒu (third tone)"
+          ],
+          "answer": 0,
+          "explain": "手 is shǒu, third tone."
+        },
+        {
+          "q": "How many strokes does 手 have?",
+          "options": [
+            "3",
+            "5",
+            "4",
+            "6"
+          ],
+          "answer": 2,
+          "explain": "手 has 4 strokes. The long vertical stroke with a hook comes last."
+        },
+        {
+          "q": "What does 手机 (shǒujī) mean?",
+          "options": [
+            "wristwatch",
+            "finger",
+            "glove",
+            "mobile phone"
+          ],
+          "answer": 3,
+          "explain": "手机 is literally \"hand machine\": a mobile phone."
+        },
+        {
+          "q": "Which shape is the form of 手 used on the left side of characters such as 打 (to hit)?",
+          "options": [
+            "亻",
+            "氵",
+            "扌",
+            "忄"
+          ],
+          "answer": 2,
+          "explain": "扌 is the three-stroke form of 手 used on the left of many characters about actions of the hand."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/shou/",
+      "sources": [
+        {
+          "name": "Wiktionary, 手: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E6%89%8B#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:手-bronze.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%89%8B-bronze.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "xin",
+      "hanzi": "心",
+      "pinyin": "xīn",
+      "tone": 1,
+      "meaning": "heart",
+      "strokes": 4,
+      "summary": "心 (xīn) is the Chinese character for heart. It is written with 4 strokes and pronounced xīn in the first tone. It began as a picture of the heart, and you will meet it in everyday words such as 开心 (happy) and 小心 (be careful).",
+      "origin": [
+        "心 is a pictograph of a heart. The oldest forms, on oracle bones more than 3,000 years ago, are an outline drawing of it.",
+        "The modern shape is highly stylized: one long curved stroke and three short ones. The outline can no longer be seen directly."
+      ],
+      "memory_aid": "Think of the long curved stroke as the rounded base of the heart and the three short strokes as its sides and top. This is how the video draws it. It is a memory aid, not a documented history of each stroke.",
+      "stroke_order": "Four strokes, from left to right: the short stroke on the left, then the long curved stroke with its hook, then the two short strokes above it, the middle one first and the right one last.",
+      "notes": [
+        "In Chinese, 心 covers both feeling and attention, so it appears in words about mood and care: 开心 (happy), 小心 (careful), 关心 (to care about).",
+        "On the left side of a character it is written 忄, as in 忙 (máng, busy). At the bottom it usually keeps its full shape, as in 想 (xiǎng, to think)."
+      ],
+      "words": [
+        {
+          "zh": "开心",
+          "pinyin": "kāixīn",
+          "en": "happy",
+          "literal": "open heart"
+        },
+        {
+          "zh": "小心",
+          "pinyin": "xiǎoxīn",
+          "en": "be careful",
+          "literal": "small heart"
+        },
+        {
+          "zh": "中心",
+          "pinyin": "zhōngxīn",
+          "en": "centre",
+          "literal": "middle heart"
+        },
+        {
+          "zh": "关心",
+          "pinyin": "guānxīn",
+          "en": "to care about"
+        },
+        {
+          "zh": "心情",
+          "pinyin": "xīnqíng",
+          "en": "mood"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 心 mean?",
+          "options": [
+            "hand",
+            "mouth",
+            "small",
+            "heart"
+          ],
+          "answer": 3,
+          "explain": "心 means heart."
+        },
+        {
+          "q": "How is 心 pronounced?",
+          "options": [
+            "xīn (first tone)",
+            "xìn (fourth tone)",
+            "xiǎo (third tone)",
+            "shēn (first tone)"
+          ],
+          "answer": 0,
+          "explain": "心 is xīn, first tone (high and level)."
+        },
+        {
+          "q": "How many strokes does 心 have?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": 1,
+          "explain": "心 has 4 strokes: one long curved stroke and three short ones."
+        },
+        {
+          "q": "What does 小心 (xiǎoxīn) mean?",
+          "options": [
+            "happy",
+            "centre",
+            "be careful",
+            "mood"
+          ],
+          "answer": 2,
+          "explain": "小心 is literally \"small heart\" and means be careful."
+        },
+        {
+          "q": "Which shape is the form of 心 used on the left side of characters such as 忙 (busy)?",
+          "options": [
+            "扌",
+            "忄",
+            "亻",
+            "氵"
+          ],
+          "answer": 1,
+          "explain": "忄 is the form of 心 used on the left side of a character."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/xin/",
+      "sources": [
+        {
+          "name": "Wiktionary, 心: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E5%BF%83#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:心-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E5%BF%83-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "yue",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "moon; month",
+      "strokes": 4,
+      "summary": "月 (yuè) is the Chinese character for moon and month. It is written with 4 strokes and pronounced yuè in the fourth tone. It began as a picture of a crescent moon, and you will meet it in everyday words such as 月亮 (the moon) and 一月 (January).",
+      "origin": [
+        "月 is a pictograph of a crescent moon. The oldest forms, on oracle bones more than 3,000 years ago, are a curved crescent.",
+        "The same character is used for \"month\"."
+      ],
+      "memory_aid": "Think of the two long strokes as the curved edges of a crescent moon, pulled straight, and the two short lines as marks inside it. This is how the video draws it. It is a way to remember the shape, not a documented history of each stroke.",
+      "stroke_order": "Four strokes: the long stroke on the left that sweeps down to the left, then the top and right side in one stroke ending in a hook, then the two short lines inside, the upper one first.",
+      "notes": [
+        "The months have no names in Chinese, only numbers: 一月 is January (\"month one\"), 二月 is February, and so on up to 十二月, December.",
+        "Inside some other characters this shape does not stand for the moon. In 有 (yǒu, to have), for example, it began as a piece of meat."
+      ],
+      "words": [
+        {
+          "zh": "月亮",
+          "pinyin": "yuèliang",
+          "en": "the moon"
+        },
+        {
+          "zh": "一月",
+          "pinyin": "yīyuè",
+          "en": "January",
+          "literal": "month one"
+        },
+        {
+          "zh": "上个月",
+          "pinyin": "shàng ge yuè",
+          "en": "last month"
+        },
+        {
+          "zh": "下个月",
+          "pinyin": "xià ge yuè",
+          "en": "next month"
+        },
+        {
+          "zh": "月光",
+          "pinyin": "yuèguāng",
+          "en": "moonlight",
+          "literal": "moon light"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Which two meanings does 月 have?",
+          "options": [
+            "sun and day",
+            "moon and month",
+            "star and night",
+            "sky and year"
+          ],
+          "answer": 1,
+          "explain": "月 means moon, and also month."
+        },
+        {
+          "q": "How is 月 pronounced?",
+          "options": [
+            "yuè (fourth tone)",
+            "rì (fourth tone)",
+            "yǔ (third tone)",
+            "yún (second tone)"
+          ],
+          "answer": 0,
+          "explain": "月 is yuè, fourth tone (falling)."
+        },
+        {
+          "q": "How many strokes does 月 have?",
+          "options": [
+            "5",
+            "3",
+            "6",
+            "4"
+          ],
+          "answer": 3,
+          "explain": "月 has 4 strokes: two long ones and two short lines inside."
+        },
+        {
+          "q": "What does 一月 (yīyuè) mean?",
+          "options": [
+            "one moon in the sky",
+            "the first day",
+            "January",
+            "one year"
+          ],
+          "answer": 2,
+          "explain": "Months are numbered, so 一月 (\"month one\") is January."
+        },
+        {
+          "q": "What does 下个月 (xià ge yuè) mean?",
+          "options": [
+            "next month",
+            "last month",
+            "this month",
+            "every month"
+          ],
+          "answer": 0,
+          "explain": "下 means next here, so 下个月 is next month. 上个月 is last month."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/yue/",
+      "sources": [
+        {
+          "name": "Wiktionary, 月: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E6%9C%88#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:月-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%88-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "yu",
+      "hanzi": "雨",
+      "pinyin": "yǔ",
+      "tone": 3,
+      "meaning": "rain",
+      "strokes": 8,
+      "summary": "雨 (yǔ) is the Chinese character for rain. It is written with 8 strokes and pronounced yǔ in the third tone. It began as a picture of a cloud with raindrops falling from it, and you will meet it in everyday words such as 下雨 (to rain) and 雨伞 (umbrella).",
+      "origin": [
+        "雨 is a pictograph: a cloud with drops of rain falling from it.",
+        "The horizontal stroke at the very top was not part of the original picture. It was added later."
+      ],
+      "memory_aid": "Think of the frame as the cloud and the four dots as raindrops falling from it.",
+      "stroke_order": "Eight strokes: the horizontal line at the top, the short vertical on the left, the top and right side of the frame in one stroke with a hook, the vertical line down the middle, and then the four dots, the two on the left first and then the two on the right.",
+      "notes": [
+        "On top of other characters 雨 is flattened and marks weather words: 雪 (xuě, snow), 雷 (léi, thunder), 雾 (wù, fog).",
+        "Chinese says that rain \"comes down\": 下雨 (xià yǔ) means it is raining."
+      ],
+      "words": [
+        {
+          "zh": "下雨",
+          "pinyin": "xià yǔ",
+          "en": "to rain",
+          "literal": "rain comes down"
+        },
+        {
+          "zh": "雨伞",
+          "pinyin": "yǔsǎn",
+          "en": "umbrella"
+        },
+        {
+          "zh": "大雨",
+          "pinyin": "dàyǔ",
+          "en": "heavy rain",
+          "literal": "big rain"
+        },
+        {
+          "zh": "小雨",
+          "pinyin": "xiǎoyǔ",
+          "en": "light rain",
+          "literal": "small rain"
+        },
+        {
+          "zh": "雨天",
+          "pinyin": "yǔtiān",
+          "en": "rainy day"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 雨 mean?",
+          "options": [
+            "cloud",
+            "snow",
+            "rain",
+            "water"
+          ],
+          "answer": 2,
+          "explain": "雨 means rain."
+        },
+        {
+          "q": "How is 雨 pronounced?",
+          "options": [
+            "yú (second tone)",
+            "yǔ (third tone)",
+            "yún (second tone)",
+            "yuè (fourth tone)"
+          ],
+          "answer": 1,
+          "explain": "雨 is yǔ, third tone."
+        },
+        {
+          "q": "How many strokes does 雨 have?",
+          "options": [
+            "6",
+            "7",
+            "9",
+            "8"
+          ],
+          "answer": 3,
+          "explain": "雨 has 8 strokes: four for the top line, the frame and the middle line, and four dots."
+        },
+        {
+          "q": "Which part of 雨 was added later and was not in the original picture?",
+          "options": [
+            "the horizontal stroke at the top",
+            "the four dots",
+            "the frame",
+            "the middle vertical line"
+          ],
+          "answer": 0,
+          "explain": "The original picture was a cloud with falling drops. The top horizontal stroke was added later."
+        },
+        {
+          "q": "What does 大雨 (dàyǔ) mean?",
+          "options": [
+            "light rain",
+            "umbrella",
+            "heavy rain",
+            "rainy day"
+          ],
+          "answer": 2,
+          "explain": "大 is big, so 大雨 is heavy rain."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/yu/",
+      "sources": [
+        {
+          "name": "Wiktionary, 雨: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E9%9B%A8#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:雨-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E9%9B%A8-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "yun",
+      "hanzi": "云",
+      "pinyin": "yún",
+      "tone": 2,
+      "meaning": "cloud",
+      "strokes": 4,
+      "summary": "云 (yún) is the Chinese character for cloud. It is written with 4 strokes and pronounced yún in the second tone. It began as a simple picture of clouds, and you will meet it in everyday words such as 白云 (white cloud) and 多云 (cloudy).",
+      "origin": [
+        "云 is a pictograph: a stylized picture of clouds.",
+        "Later 雨 (yǔ, rain) was added on top, giving 雲, the form still used in traditional Chinese writing.",
+        "The simplified characters adopted in mainland China in the 1950s removed that later addition again, so the modern simplified form is also the older shape."
+      ],
+      "memory_aid": "Think of the two horizontal lines as layers of cloud and the shape below as a curling wisp. This is how the video draws it. It is a memory aid, not a documented history of each stroke.",
+      "stroke_order": "Four strokes: the short horizontal line, the long horizontal line, then the stroke that goes down to the left and turns back to the right, and last the dot.",
+      "notes": [
+        "Traditional Chinese (Taiwan, Hong Kong) writes 雲, with 12 strokes.",
+        "In classical Chinese texts 云 often means \"to say\"."
+      ],
+      "words": [
+        {
+          "zh": "白云",
+          "pinyin": "báiyún",
+          "en": "white cloud"
+        },
+        {
+          "zh": "多云",
+          "pinyin": "duōyún",
+          "en": "cloudy",
+          "literal": "many clouds"
+        },
+        {
+          "zh": "乌云",
+          "pinyin": "wūyún",
+          "en": "dark clouds"
+        },
+        {
+          "zh": "云南",
+          "pinyin": "Yúnnán",
+          "en": "Yunnan, a province in south-west China",
+          "literal": "south of the clouds"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 云 mean?",
+          "options": [
+            "rain",
+            "sky",
+            "wind",
+            "cloud"
+          ],
+          "answer": 3,
+          "explain": "云 means cloud."
+        },
+        {
+          "q": "How is 云 pronounced?",
+          "options": [
+            "yún (second tone)",
+            "yǔ (third tone)",
+            "yuè (fourth tone)",
+            "yīn (first tone)"
+          ],
+          "answer": 0,
+          "explain": "云 is yún, second tone (rising)."
+        },
+        {
+          "q": "How many strokes does 云 have?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": 1,
+          "explain": "云 has 4 strokes: two horizontal lines, a turning stroke and a dot."
+        },
+        {
+          "q": "Which character sits on top of the traditional form 雲?",
+          "options": [
+            "日 (sun)",
+            "山 (mountain)",
+            "雨 (rain)",
+            "水 (water)"
+          ],
+          "answer": 2,
+          "explain": "雲 is 雨 (rain) on top of 云. The simplified form dropped the 雨 again."
+        },
+        {
+          "q": "What does 多云 (duōyún) mean?",
+          "options": [
+            "white cloud",
+            "cloudy",
+            "dark clouds",
+            "no clouds"
+          ],
+          "answer": 1,
+          "explain": "多 is many, so 多云 (\"many clouds\") means cloudy."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/yun/",
+      "sources": [
+        {
+          "name": "Wiktionary, 云: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E4%BA%91#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:云-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%91-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "tu",
+      "hanzi": "土",
+      "pinyin": "tǔ",
+      "tone": 3,
+      "meaning": "earth; soil",
+      "strokes": 3,
+      "summary": "土 (tǔ) is the Chinese character for earth and soil. It is written with 3 strokes and pronounced tǔ in the third tone. It began as a picture of a mound of earth, and you will meet it in everyday words such as 土地 (land) and 土豆 (potato).",
+      "origin": [
+        "土 is a pictograph of a mound of earth. The oldest forms are found on oracle bones more than 3,000 years ago.",
+        "Later the mound became narrow and pointed at both ends, and its broad middle part developed into the horizontal stroke."
+      ],
+      "memory_aid": "Read it from the bottom up: the long line is the ground, the upright stroke is the mound of earth, and the short line is its wide middle.",
+      "stroke_order": "Three strokes: the short horizontal line, then the vertical line, then the long horizontal line at the bottom.",
+      "notes": [
+        "Do not confuse 土 with 士 (shì, scholar; soldier). In 土 the bottom line is the longer one. In 士 the top line is longer.",
+        "On the left side of other characters it is the \"earth radical\", as in 地 (dì, ground) and 城 (chéng, city)."
+      ],
+      "words": [
+        {
+          "zh": "土地",
+          "pinyin": "tǔdì",
+          "en": "land"
+        },
+        {
+          "zh": "土豆",
+          "pinyin": "tǔdòu",
+          "en": "potato",
+          "literal": "earth bean"
+        },
+        {
+          "zh": "泥土",
+          "pinyin": "nítǔ",
+          "en": "soil; mud"
+        },
+        {
+          "zh": "黄土",
+          "pinyin": "huángtǔ",
+          "en": "loess",
+          "literal": "yellow earth"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 土 mean?",
+          "options": [
+            "earth; soil",
+            "field",
+            "mountain",
+            "stone"
+          ],
+          "answer": 0,
+          "explain": "土 means earth or soil."
+        },
+        {
+          "q": "How is 土 pronounced?",
+          "options": [
+            "dà (fourth tone)",
+            "tián (second tone)",
+            "tǔ (third tone)",
+            "tù (fourth tone)"
+          ],
+          "answer": 2,
+          "explain": "土 is tǔ, third tone."
+        },
+        {
+          "q": "How many strokes does 土 have?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": 1,
+          "explain": "土 has 3 strokes: short horizontal, vertical, long horizontal."
+        },
+        {
+          "q": "What does 土豆 (tǔdòu) mean?",
+          "options": [
+            "land",
+            "mud",
+            "bean sprout",
+            "potato"
+          ],
+          "answer": 3,
+          "explain": "土豆 is literally \"earth bean\": a potato."
+        },
+        {
+          "q": "In 土, which horizontal line is longer?",
+          "options": [
+            "the top one",
+            "they are the same length",
+            "the bottom one",
+            "there is only one horizontal line"
+          ],
+          "answer": 2,
+          "explain": "In 土 the bottom line is longer. If the top line is longer, it is a different character, 士."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/tu/",
+      "sources": [
+        {
+          "name": "Wiktionary, 土: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E5%9C%9F#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:土-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E5%9C%9F-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "tian",
+      "hanzi": "田",
+      "pinyin": "tián",
+      "tone": 2,
+      "meaning": "field",
+      "strokes": 5,
+      "summary": "田 (tián) is the Chinese character for field. It is written with 5 strokes and pronounced tián in the second tone. It began as a picture of a field divided into sections, and you will meet it in everyday words such as 稻田 (rice field) and 田野 (open fields).",
+      "origin": [
+        "田 is a pictograph: a field divided into four sections. The form is found on oracle bones more than 3,000 years ago and is still easy to recognise today."
+      ],
+      "memory_aid": "Look down from a hill: a square plot of farmland, with two paths crossing in the middle.",
+      "stroke_order": "Five strokes: the left side, then the top and right side in one stroke, then the horizontal line inside, then the vertical line inside, and last the bottom line to close the box.",
+      "notes": [
+        "田 is also a Chinese family name (Tián), and it is a very common part of Japanese family names.",
+        "Inside other characters the same square is not always a field. In 果 (guǒ, fruit), for example, it has nothing to do with fields."
+      ],
+      "words": [
+        {
+          "zh": "田地",
+          "pinyin": "tiándì",
+          "en": "farmland"
+        },
+        {
+          "zh": "稻田",
+          "pinyin": "dàotián",
+          "en": "rice field"
+        },
+        {
+          "zh": "农田",
+          "pinyin": "nóngtián",
+          "en": "farmland; cropland"
+        },
+        {
+          "zh": "田野",
+          "pinyin": "tiányě",
+          "en": "open fields; countryside"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 田 mean?",
+          "options": [
+            "mouth",
+            "sun",
+            "field",
+            "earth"
+          ],
+          "answer": 2,
+          "explain": "田 means field."
+        },
+        {
+          "q": "How is 田 pronounced?",
+          "options": [
+            "tiān (first tone)",
+            "tǔ (third tone)",
+            "diàn (fourth tone)",
+            "tián (second tone)"
+          ],
+          "answer": 3,
+          "explain": "田 is tián, second tone (rising)."
+        },
+        {
+          "q": "How many strokes does 田 have?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "7"
+          ],
+          "answer": 0,
+          "explain": "田 has 5 strokes: three for the box and two for the cross inside."
+        },
+        {
+          "q": "What did the original picture show?",
+          "options": [
+            "a window with four panes",
+            "a field divided into four sections",
+            "four mouths",
+            "a box with a cross on the lid"
+          ],
+          "answer": 1,
+          "explain": "田 is a picture of a field divided into four sections."
+        },
+        {
+          "q": "What does 稻田 (dàotián) mean?",
+          "options": [
+            "rice field",
+            "countryside",
+            "farmer",
+            "potato field"
+          ],
+          "answer": 0,
+          "explain": "稻 is the rice plant, so 稻田 is a rice field."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/tian/",
+      "sources": [
+        {
+          "name": "Wiktionary, 田: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E7%94%B0#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:田-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E7%94%B0-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "da",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "tone": 4,
+      "meaning": "big",
+      "strokes": 3,
+      "summary": "大 (dà) is the Chinese character for big. It is written with 3 strokes and pronounced dà in the fourth tone. It began as a picture of a person standing and facing forward, and you will meet it in everyday words such as 大家 (everyone) and 大学 (university).",
+      "origin": [
+        "大 is a pictograph: a standing person facing forward. Compare 人 (rén, person), which shows a person from the side.",
+        "It is often explained as a person stretching out the arms to show \"big\". The oldest forms do not actually show stretched arms, so we give that only as a memory aid."
+      ],
+      "memory_aid": "Stand with your arms and legs spread as wide as you can to show how big something is. That is the shape of 大.",
+      "stroke_order": "Three strokes: the horizontal line first, then the long stroke that starts at the top, crosses the line and sweeps down to the left, then the stroke that sweeps down to the right.",
+      "notes": [
+        "One more stroke changes the meaning: 太 (tài, too; extremely) has a dot at the bottom, and 天 (tiān, sky; day) has a line on top.",
+        "Its opposite is 小 (xiǎo, small). Together they make 大小 (dàxiǎo), size."
+      ],
+      "words": [
+        {
+          "zh": "大家",
+          "pinyin": "dàjiā",
+          "en": "everyone"
+        },
+        {
+          "zh": "大学",
+          "pinyin": "dàxué",
+          "en": "university",
+          "literal": "big learning"
+        },
+        {
+          "zh": "大人",
+          "pinyin": "dàren",
+          "en": "adult",
+          "literal": "big person"
+        },
+        {
+          "zh": "大小",
+          "pinyin": "dàxiǎo",
+          "en": "size",
+          "literal": "big small"
+        },
+        {
+          "zh": "很大",
+          "pinyin": "hěn dà",
+          "en": "very big"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 大 mean?",
+          "options": [
+            "small",
+            "person",
+            "sky",
+            "big"
+          ],
+          "answer": 3,
+          "explain": "大 means big."
+        },
+        {
+          "q": "How is 大 pronounced?",
+          "options": [
+            "dà (fourth tone)",
+            "tài (fourth tone)",
+            "dǎ (third tone)",
+            "tiān (first tone)"
+          ],
+          "answer": 0,
+          "explain": "大 is dà, fourth tone (falling)."
+        },
+        {
+          "q": "How many strokes does 大 have?",
+          "options": [
+            "2",
+            "4",
+            "3",
+            "5"
+          ],
+          "answer": 2,
+          "explain": "大 has 3 strokes. The horizontal line is written first."
+        },
+        {
+          "q": "What does 大学 (dàxué) mean?",
+          "options": [
+            "primary school",
+            "university",
+            "everyone",
+            "adult"
+          ],
+          "answer": 1,
+          "explain": "大学 is literally \"big learning\": a university."
+        },
+        {
+          "q": "Which character is 大 with a dot added at the bottom, meaning \"too; extremely\"?",
+          "options": [
+            "天",
+            "人",
+            "太",
+            "小"
+          ],
+          "answer": 2,
+          "explain": "太 (tài) is 大 plus a dot. 天 (tiān, sky) has a line on top instead."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/da/",
+      "sources": [
+        {
+          "name": "Wiktionary, 大: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E5%A4%A7#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:大-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "xiao",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "tone": 3,
+      "meaning": "small",
+      "strokes": 3,
+      "summary": "小 (xiǎo) is the Chinese character for small. It is written with 3 strokes and pronounced xiǎo in the third tone. Its oldest form is three small dots, and you will meet it in everyday words such as 小心 (be careful) and 小时 (hour).",
+      "origin": [
+        "The oldest forms of 小, on oracle bones more than 3,000 years ago, are simply three small dots. There are two readings of them: three tiny dots as a sign for \"small\", or three grains of sand.",
+        "Starting with some bronze inscriptions the dots were drawn longer, which led to the three strokes written today.",
+        "An early dictionary, the Shuowen, explained the character as a small object being divided. That explanation was based on the later, stretched shape and is considered a mistake."
+      ],
+      "memory_aid": "Three tiny specks, one in the middle and one on each side. In the modern shape the middle one has grown into a tall stroke with a hook.",
+      "stroke_order": "Three strokes: the tall vertical stroke with a hook in the middle first, then the dot on the left, then the dot on the right.",
+      "notes": [
+        "Its opposite is 大 (dà, big). Together they make 大小 (dàxiǎo), size.",
+        "少 (shǎo, few) looks similar. Compare the two carefully: 少 has one more stroke, sweeping down to the left at the bottom."
+      ],
+      "words": [
+        {
+          "zh": "小心",
+          "pinyin": "xiǎoxīn",
+          "en": "be careful",
+          "literal": "small heart"
+        },
+        {
+          "zh": "小学",
+          "pinyin": "xiǎoxué",
+          "en": "primary school",
+          "literal": "small learning"
+        },
+        {
+          "zh": "小时",
+          "pinyin": "xiǎoshí",
+          "en": "hour",
+          "literal": "small time"
+        },
+        {
+          "zh": "大小",
+          "pinyin": "dàxiǎo",
+          "en": "size",
+          "literal": "big small"
+        },
+        {
+          "zh": "小孩",
+          "pinyin": "xiǎohái",
+          "en": "child"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 小 mean?",
+          "options": [
+            "few",
+            "small",
+            "big",
+            "water"
+          ],
+          "answer": 1,
+          "explain": "小 means small."
+        },
+        {
+          "q": "How is 小 pronounced?",
+          "options": [
+            "shǎo (third tone)",
+            "xiào (fourth tone)",
+            "xīn (first tone)",
+            "xiǎo (third tone)"
+          ],
+          "answer": 3,
+          "explain": "小 is xiǎo, third tone."
+        },
+        {
+          "q": "How many strokes does 小 have?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": 0,
+          "explain": "小 has 3 strokes."
+        },
+        {
+          "q": "What did the oldest form of 小 look like?",
+          "options": [
+            "a small person",
+            "a small box",
+            "three small dots",
+            "a small tree"
+          ],
+          "answer": 2,
+          "explain": "The oldest forms are three small dots, read either as a sign for \"small\" or as grains of sand."
+        },
+        {
+          "q": "Which stroke of 小 is written first?",
+          "options": [
+            "the dot on the left",
+            "the tall stroke in the middle",
+            "the dot on the right",
+            "a horizontal line"
+          ],
+          "answer": 1,
+          "explain": "The tall middle stroke with a hook comes first, then the left dot, then the right dot."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/xiao/",
+      "sources": [
+        {
+          "name": "Wiktionary, 小: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E5%B0%8F#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:小-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "shang",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "tone": 4,
+      "meaning": "up; above",
+      "strokes": 3,
+      "summary": "上 (shàng) is the Chinese character for up and above. It is written with 3 strokes and pronounced shàng in the fourth tone. It began as a sign: a short mark above a long line, and you will meet it in everyday words such as 上午 (morning) and 上山 (go up the mountain).",
+      "origin": [
+        "上 is not a picture of a thing. It is an indicative sign. The oldest forms, on oracle bones more than 3,000 years ago, are a short line drawn above a long curved line, to show the idea of \"above\".",
+        "下 (xià, below) was made the same way, with the short line under the long one.",
+        "In the modern form an upright stroke stands on the base line, with the short line on its right."
+      ],
+      "memory_aid": "The long line at the bottom is the ground. Everything else in the character stands above it.",
+      "stroke_order": "Three strokes: the vertical line first, then the short horizontal line on its right, then the long horizontal line at the bottom.",
+      "notes": [
+        "上 is also a verb, to go up or to get on: 上山 (go up the mountain), 上车 (get on a vehicle), 上班 (go to work).",
+        "With time words it means \"last\": 上个月 (last month), 上次 (last time)."
+      ],
+      "words": [
+        {
+          "zh": "上午",
+          "pinyin": "shàngwǔ",
+          "en": "morning",
+          "literal": "upper noon"
+        },
+        {
+          "zh": "上山",
+          "pinyin": "shàng shān",
+          "en": "to go up the mountain"
+        },
+        {
+          "zh": "上班",
+          "pinyin": "shàngbān",
+          "en": "to go to work"
+        },
+        {
+          "zh": "上海",
+          "pinyin": "Shànghǎi",
+          "en": "Shanghai",
+          "literal": "on the sea"
+        },
+        {
+          "zh": "上个月",
+          "pinyin": "shàng ge yuè",
+          "en": "last month"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 上 mean?",
+          "options": [
+            "down; below",
+            "middle",
+            "up; above",
+            "big"
+          ],
+          "answer": 2,
+          "explain": "上 means up or above."
+        },
+        {
+          "q": "How is 上 pronounced?",
+          "options": [
+            "shàng (fourth tone)",
+            "shān (first tone)",
+            "xià (fourth tone)",
+            "shǎng (third tone)"
+          ],
+          "answer": 0,
+          "explain": "上 is shàng, fourth tone (falling)."
+        },
+        {
+          "q": "How many strokes does 上 have?",
+          "options": [
+            "2",
+            "4",
+            "5",
+            "3"
+          ],
+          "answer": 3,
+          "explain": "上 has 3 strokes: vertical, short horizontal, long horizontal."
+        },
+        {
+          "q": "What did the oldest form of 上 show?",
+          "options": [
+            "a person climbing",
+            "a short mark above a long line",
+            "a bird in the sky",
+            "an arrow pointing up"
+          ],
+          "answer": 1,
+          "explain": "It is a sign, not a picture: a short mark above a long line."
+        },
+        {
+          "q": "What does 上午 (shàngwǔ) mean?",
+          "options": [
+            "afternoon",
+            "noon",
+            "morning",
+            "last month"
+          ],
+          "answer": 2,
+          "explain": "上午 is the part of the day before noon: the morning."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/shang/",
+      "sources": [
+        {
+          "name": "Wiktionary, 上: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E4%B8%8A#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:上-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "xia",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "tone": 4,
+      "meaning": "down; below",
+      "strokes": 3,
+      "summary": "下 (xià) is the Chinese character for down and below. It is written with 3 strokes and pronounced xià in the fourth tone. It began as a sign: a short mark below a long line, and you will meet it in everyday words such as 下午 (afternoon) and 下雨 (to rain).",
+      "origin": [
+        "下 is not a picture of a thing. It is an indicative sign. The oldest forms, on oracle bones more than 3,000 years ago, are a short line drawn below a long curved line, to show the idea of \"below\".",
+        "上 (shàng, above) was made the same way, with the short line over the long one.",
+        "In the modern form an upright stroke hangs down from the long line, with a dot on its right."
+      ],
+      "memory_aid": "The long line at the top is the ground seen from the side. Everything else in the character hangs below it.",
+      "stroke_order": "Three strokes: the horizontal line at the top, then the vertical line, then the dot on the right.",
+      "notes": [
+        "下 is also a verb, to go down or to get off: 下山 (go down the mountain), 下车 (get off a vehicle), 下班 (finish work). Rain and snow \"come down\" too: 下雨 (to rain), 下雪 (to snow).",
+        "With time words it means \"next\": 下个月 (next month), 下次 (next time)."
+      ],
+      "words": [
+        {
+          "zh": "下午",
+          "pinyin": "xiàwǔ",
+          "en": "afternoon",
+          "literal": "lower noon"
+        },
+        {
+          "zh": "下雨",
+          "pinyin": "xià yǔ",
+          "en": "to rain",
+          "literal": "rain comes down"
+        },
+        {
+          "zh": "下山",
+          "pinyin": "xià shān",
+          "en": "to go down the mountain"
+        },
+        {
+          "zh": "下班",
+          "pinyin": "xiàbān",
+          "en": "to finish work"
+        },
+        {
+          "zh": "下个月",
+          "pinyin": "xià ge yuè",
+          "en": "next month"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 下 mean?",
+          "options": [
+            "up; above",
+            "down; below",
+            "small",
+            "middle"
+          ],
+          "answer": 1,
+          "explain": "下 means down or below."
+        },
+        {
+          "q": "How is 下 pronounced?",
+          "options": [
+            "shàng (fourth tone)",
+            "xiǎo (third tone)",
+            "xiā (first tone)",
+            "xià (fourth tone)"
+          ],
+          "answer": 3,
+          "explain": "下 is xià, fourth tone (falling)."
+        },
+        {
+          "q": "How many strokes does 下 have?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": 0,
+          "explain": "下 has 3 strokes: horizontal, vertical, dot."
+        },
+        {
+          "q": "What does 下午 (xiàwǔ) mean?",
+          "options": [
+            "morning",
+            "noon",
+            "afternoon",
+            "next month"
+          ],
+          "answer": 2,
+          "explain": "下午 is the part of the day after noon: the afternoon."
+        },
+        {
+          "q": "What does 下个月 (xià ge yuè) mean?",
+          "options": [
+            "last month",
+            "next month",
+            "this month",
+            "the moon is setting"
+          ],
+          "answer": 1,
+          "explain": "With time words 下 means next, so 下个月 is next month."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/xia/",
+      "sources": [
+        {
+          "name": "Wiktionary, 下: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E4%B8%8B#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:下-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%8B-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "zhong",
+      "hanzi": "中",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "middle",
+      "strokes": 4,
+      "summary": "中 (zhōng) is the Chinese character for middle. It is written with 4 strokes and pronounced zhōng in the first tone. It began as a picture of a flagpole, and you will meet it in everyday words such as 中国 (China) and 中午 (noon).",
+      "origin": [
+        "中 is a pictograph of a flagpole. The oldest forms, on oracle bones more than 3,000 years ago, show an upright pole with streamers and a rounded shape at its middle.",
+        "Based on archaeological evidence, the shape in the middle has been interpreted as a drum fixed to the pole. A pole like this was placed in the centre of a field to gather people and to show the direction of the wind.",
+        "Other explanations exist. The Shuowen, an early dictionary, read the character as a line passing through the centre of 口, and it has also been explained as an arrow in the centre of a target."
+      ],
+      "memory_aid": "A line straight through the middle of a box. This is the easiest way to remember the modern shape.",
+      "stroke_order": "Four strokes: the short left side of the box, then its top and right side in one stroke, then the bottom line of the box, and last the long vertical line through the middle.",
+      "notes": [
+        "中国 (Zhōngguó), the Chinese name for China, is literally \"middle country\".",
+        "Pronounced zhòng, in the fourth tone, the same character is a verb meaning to hit a target, as in 中奖 (zhòngjiǎng, to win a prize)."
+      ],
+      "words": [
+        {
+          "zh": "中国",
+          "pinyin": "Zhōngguó",
+          "en": "China",
+          "literal": "middle country"
+        },
+        {
+          "zh": "中文",
+          "pinyin": "Zhōngwén",
+          "en": "the Chinese language"
+        },
+        {
+          "zh": "中间",
+          "pinyin": "zhōngjiān",
+          "en": "the middle; between"
+        },
+        {
+          "zh": "中午",
+          "pinyin": "zhōngwǔ",
+          "en": "noon",
+          "literal": "middle of the day"
+        },
+        {
+          "zh": "中心",
+          "pinyin": "zhōngxīn",
+          "en": "centre",
+          "literal": "middle heart"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 中 mean?",
+          "options": [
+            "mouth",
+            "above",
+            "middle",
+            "field"
+          ],
+          "answer": 2,
+          "explain": "中 means middle."
+        },
+        {
+          "q": "How is 中 pronounced when it means middle?",
+          "options": [
+            "zhōng (first tone)",
+            "zhǒng (third tone)",
+            "chōng (first tone)",
+            "zōng (first tone)"
+          ],
+          "answer": 0,
+          "explain": "中 is zhōng, first tone (high and level)."
+        },
+        {
+          "q": "How many strokes does 中 have?",
+          "options": [
+            "3",
+            "5",
+            "6",
+            "4"
+          ],
+          "answer": 3,
+          "explain": "中 has 4 strokes: three for the box, then the long vertical line."
+        },
+        {
+          "q": "What is 中国 (Zhōngguó), literally \"middle country\"?",
+          "options": [
+            "Japan",
+            "China",
+            "the centre of a city",
+            "noon"
+          ],
+          "answer": 1,
+          "explain": "中国 is the Chinese name for China."
+        },
+        {
+          "q": "Which stroke of 中 is written last?",
+          "options": [
+            "the left side of the box",
+            "the bottom line of the box",
+            "the long vertical line through the middle",
+            "the top of the box"
+          ],
+          "answer": 2,
+          "explain": "The box is written first. The long vertical line through the middle comes last."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/zhong/",
+      "sources": [
+        {
+          "name": "Wiktionary, 中: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E4%B8%AD#Glyph_origin"
+        },
+        {
+          "name": "Wikimedia Commons, File:中-oracle.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD-oracle.svg"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
+    },
+    {
+      "id": "huang",
+      "hanzi": "黄",
+      "pinyin": "huáng",
+      "tone": 2,
+      "meaning": "yellow",
+      "strokes": 11,
+      "summary": "黄 (huáng) is the Chinese character for yellow. It is written with 11 strokes and pronounced huáng in the second tone. It is also a very common family name, and you will meet it in words such as 黄色 (yellow) and 黄河 (the Yellow River).",
+      "origin": [
+        "The origin of 黄 is debated. The oldest forms, on oracle bones more than 3,000 years ago, show a standing person with a ring or box shape drawn at the waist.",
+        "One proposal is that this was a picture of a person wearing a jade pendant, and that it was the first way of writing 璜 (huáng, a jade pendant). Another reads the same forms as a person with a swollen belly. Scholars do not agree, so we do not give either as fact.",
+        "What is certain is that the character was already being used for the colour yellow in the oracle-bone inscriptions, and that is the meaning that lasted."
+      ],
+      "memory_aid": "Think of the middle box 由 as a field of ripe yellow grain, with grass growing on top and two roots below. This is only a way to remember the modern shape. It is not where the character comes from.",
+      "stroke_order": "Start at the top: a horizontal stroke, two short vertical strokes through it, then the long horizontal stroke. Next write the box in the middle (left side, then top and right side in one stroke, the inner horizontal, the vertical through the centre, and the closing stroke). Finish with the two strokes at the bottom, left then right.",
+      "notes": [
+        "黄 is also one of the most common Chinese family names. In Mandarin it is spelled Huang. Families from Cantonese-speaking areas often spell the same character Wong.",
+        "The form 黄 is used in mainland China, Singapore and Japan. In traditional Chinese writing (Taiwan, Hong Kong) the character is written 黃, with one more stroke."
+      ],
+      "words": [
+        {
+          "zh": "黄色",
+          "pinyin": "huángsè",
+          "en": "yellow (the colour)",
+          "literal": "yellow colour"
+        },
+        {
+          "zh": "黄河",
+          "pinyin": "Huáng Hé",
+          "en": "the Yellow River"
+        },
+        {
+          "zh": "黄金",
+          "pinyin": "huángjīn",
+          "en": "gold",
+          "literal": "yellow metal"
+        },
+        {
+          "zh": "黄瓜",
+          "pinyin": "huángguā",
+          "en": "cucumber",
+          "literal": "yellow melon"
+        },
+        {
+          "zh": "蛋黄",
+          "pinyin": "dànhuáng",
+          "en": "egg yolk",
+          "literal": "egg yellow"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What does 黄 mean?",
+          "options": [
+            "red",
+            "white",
+            "yellow",
+            "black"
+          ],
+          "answer": 2,
+          "explain": "黄 means yellow."
+        },
+        {
+          "q": "How is 黄 pronounced?",
+          "options": [
+            "huáng (second tone)",
+            "huǒ (third tone)",
+            "hóng (second tone)",
+            "huā (first tone)"
+          ],
+          "answer": 0,
+          "explain": "黄 is huáng, second tone (rising)."
+        },
+        {
+          "q": "How many strokes does 黄 have in its simplified form?",
+          "options": [
+            "9",
+            "10",
+            "12",
+            "11"
+          ],
+          "answer": 3,
+          "explain": "黄 has 11 strokes. The traditional form 黃 has 12."
+        },
+        {
+          "q": "What is 黄河 (Huáng Hé)?",
+          "options": [
+            "a yellow flower",
+            "the Yellow River",
+            "gold",
+            "an egg yolk"
+          ],
+          "answer": 1,
+          "explain": "河 is river, so 黄河 is the Yellow River."
+        },
+        {
+          "q": "What does 黄瓜 (huángguā) mean?",
+          "options": [
+            "banana",
+            "pumpkin",
+            "cucumber",
+            "lemon"
+          ],
+          "answer": 2,
+          "explain": "黄瓜 is cucumber, even though the name is literally \"yellow melon\"."
+        }
+      ],
+      "page": "https://chinesecharacterstory.com/characters/huang/",
+      "sources": [
+        {
+          "name": "Wiktionary, 黃: Glyph origin",
+          "url": "https://en.wiktionary.org/wiki/%E9%BB%83#Glyph_origin"
+        },
+        {
+          "name": "Make Me a Hanzi / hanzi-writer-data 2.0.1 (stroke data)",
+          "url": "https://github.com/chanind/hanzi-writer-data"
+        }
+      ]
     }
   ]
 }
